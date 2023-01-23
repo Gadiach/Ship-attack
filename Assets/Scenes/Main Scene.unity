@@ -200,7 +200,6 @@ GameObject:
   - component: {fileID: 3273586}
   - component: {fileID: 3273589}
   - component: {fileID: 3273588}
-  - component: {fileID: 3273592}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -208,18 +207,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &3273592
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3273591}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ff7a01bd08ca53a41b158ad58a7df4bc, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &12581442
 GameObject:
   m_ObjectHideFlags: 0
@@ -5821,7 +5808,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 908399671}
-  - component: {fileID: 908399670}
   m_Layer: 0
   m_Name: TerrainGroup_0
   m_TagString: Untagged
@@ -5829,19 +5815,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &908399670
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 908399669}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0ca34a6148db2d54493f84f379293f33, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  GroupID: 0
 --- !u!4 &908399671
 Transform:
   m_ObjectHideFlags: 0
